@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'Adds a Hunger & Thrist system'
+description 'Hunger, Thrist & Stress system'
 lua54 'yes'
 version '1.0'
 legacyversion '1.9.1'
