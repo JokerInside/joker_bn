@@ -15,7 +15,7 @@ git clone https://github.com/JokerInside/joker_bn [esx]/joker_bn
 ```
 
 ### Manually
-- Download https://github.com/JokerInside/joker_bn/archive/refs/heads/main.zip
+- Download https://github.com/JokerInside/joker_bn/archive/refs/heads/master.zip
 - Put it in the `[esx]` directory
 
 
