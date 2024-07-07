@@ -4,6 +4,7 @@ This script implements hunger and thirst status, they can be increased when eati
 
 ## Requirements
 - [esx_status](https://github.com/esx-framework/esx_status)
+- [joker_core](https://github.com/JokerInside/joker_bn)
 
 ## Download & Installation
 
