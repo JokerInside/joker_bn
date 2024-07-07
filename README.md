@@ -7,11 +7,6 @@ This script implements hunger and thirst status, they can be increased when eati
 
 ## Download & Installation
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-framework/joker_bn
-```
-
 ### Using Git
 ```
 cd resources
