@@ -3,7 +3,7 @@
 This script implements hunger and thirst status, they can be increased when eating bread or drinking water.
 
 ## Requirements
-- [esx_status](https://github.com/JokerInside/joker_sts)
+- [joker_sts](https://github.com/JokerInside/joker_sts)
 - [joker_core](https://github.com/JokerInside/joker_core)
 
 ## Download & Installation
