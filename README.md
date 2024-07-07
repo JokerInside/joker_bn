@@ -15,11 +15,11 @@ fvm install --save --folder=esx esx-framework/joker_bn
 ### Using Git
 ```
 cd resources
-git clone https://github.com/esx-framework/joker_bn [esx]/joker_bn
+git clone https://github.com/JokerInside/joker_bn [esx]/joker_bn
 ```
 
 ### Manually
-- Download https://github.com/esx-framework/esx_basicneeds/archive/master.zip
+- Download https://github.com/JokerInside/joker_bn/archive/refs/heads/main.zip
 - Put it in the `[esx]` directory
 
 
